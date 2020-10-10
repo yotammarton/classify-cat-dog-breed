@@ -1,0 +1,7 @@
+images
+annotations
+data_paths_and_classes_unix.csv
+data_paths_and_classes_windows.csv
+flat_weights_inception_resnet_v2.hdf5
+nsl_weights_inception_resnet_v2_0.2_0.2_l2.hdf5
+.idea
