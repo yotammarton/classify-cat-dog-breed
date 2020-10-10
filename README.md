@@ -55,7 +55,7 @@ Download [Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/) 
 
 ## Usage example
 
-`python utils.py` - creating data paths file<br>
+`python create_oxford_image_paths_file.py` - creating data paths file<br>
 `python breed_model_flat.py inception_resnet_v2` - train flat model with Inception ResNet V2 architecture<br>
 `python breed_model_hierarchical.py inception_resnet_v2` - train hierarchical model with Inception ResNet V2 architecture<br>
 `python neural_structured_learning_model.py` - train NSL model with adversarial examples<br>
